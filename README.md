@@ -1,7 +1,7 @@
 # [4.4] Gigastructures/ACOT/Frameworld & Addons — Irony Load Order
 
 Load order files for the Steam Workshop collection
-**[[4.4] Gigastructures/ACOT/Frameworld & Addons](https://steamcommunity.com/workshop/filedetails/?id=3196091558)** (51 mods).
+**[[4.4] Gigastructures/ACOT/Frameworld & Addons](https://steamcommunity.com/sharedfiles/filedetails/?id=3691531386)** (51 mods).
 
 ## How to use
 

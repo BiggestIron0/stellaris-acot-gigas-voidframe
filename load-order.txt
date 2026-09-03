@@ -1,0 +1,51 @@
+ 1. ~~Scripted Trigger Undercoat
+ 2. Sort Those Buildings
+ 3. Gigastructural Engineering & More (4.4)
+ 4. Sort Those Buildings - Gigastructural Engineering
+ 5. [4.4] Hyperquasaric Megaconstruction
+ 6. [4.4] Stellar Manipulation Rewrite/Revival
+ 7. XHK Bulk Matter Planet Construction
+ 8. Additional Traits
+ 9. Better Leader Traits
+10. 31 Tradition Slots + 32 AP Slots
+11. All Ascension Paths
+12. Tradition UI 4.2~4.0
+13. More Events Mod
+14. No Clustered Starts
+15. Ancient Cache of Technologies
+16. Sort Those Buildings - Ancient Cache of Technologies
+17. Ancient Cache of Technologies: Override
+18. Ancient Cache of Technologies: Extra Defines and Changes
+19. ACOT: Secrets Beyond The Gates - Updated
+20. ACOT - SBtG Stellarborne 4.4 Fix
+21. Dawn Of Ascension
+22. Acquisition of Technology
+23. Secrets of the Shroud
+24. RSA - Feature Preserver - Deposit Fixer
+25. Ascension Planets Construction Situations (APCS)
+26. UI Overhaul Dynamic
+27. UI Overhaul Dynamic - Extended Topbar
+28. UI Overhaul Dynamic - Larger Event Window
+29. UI Overhaul Dynamic - SpeedDial
+30. UI Overhaul Dynamic - Tiny Options
+31. UI Overhaul Dynamic - Tiny Outliner
+32. UI Overhaul Dynamic + Gigastructural Engineering
+33. Ultimate Automation
+34. XHK Frameworld 4.4 Fix
+35. ANZ VOIDFRAME
+36. XHK Frameworld Extra Goodies
+37. ! Dark Blue UI Remake
+38. ! Dark Blue UI Universal Patch
+39. ! Core Framework of Kasako
+40. ! IBS Animated Map Icons
+41. ! Reworked Planetary Ascension
+42. ! Reworked Advanced Ascension
+43. ! Better Performance & Utilities
+44. ! Immersive Stellaris Collection !
+45. ! Immersive Energy Shield
+46. ! Universal Game Rules Patch
+47. ! Sartek Tradition - Ascension Perk Merger
+48. ! Sartek TAP Merger - Ascension Path Fusion
+49. !!Universal Modifier Patch (4.4.*)
+50. !!!Universal Resource Patch [2.4+]
+51. Shader merge 4.2
